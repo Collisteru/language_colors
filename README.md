@@ -5,4 +5,4 @@ How can we assign each language a color in a way that respects their linguistic 
 
 The procedure is described in this blogpost: [LINK].
 
-Data taken from https://github.com/pannous/swadesh
+Swadesh list data taken from https://github.com/pannous/swadesh
